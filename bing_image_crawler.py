@@ -12,7 +12,7 @@ screen = '''
 | 1. Make a list of names of images/class labels to be downloaded |
 |    in a txt file.                                               |
 | 2. Place the txt file in the same path.                         |
-| 3. Enter image count of each class label                                                |
+| 3. Enter image count of each class label                        |
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
 
